@@ -1,0 +1,24 @@
+table{
+    margin: auto;
+    background-color: bisque;
+}
+.row{
+    background: linear-gradient(to right, red, green);
+}
+th{
+    color: darkorange;
+}
+.max{
+    background-color: dodgerblue;
+    color: ghostwhite;
+}
+.first{
+    background: linear-gradient(to right, salmon, red);
+}
+.second{
+    background: linear-gradient(to left, salmon, red);
+}
+.no{
+    background-color: dodgerblue;
+    color: ghostwhite;
+}
